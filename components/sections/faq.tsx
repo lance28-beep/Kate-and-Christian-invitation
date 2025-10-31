@@ -20,7 +20,7 @@ const faqItems: FAQItem[] = [
       "Semi-Formal Attire. Ladies: Long or cocktail dress. Gentlemen: Long sleeve, polo, pants or suit. Please avoid jeans and casual attire.",
   },
   {
-    question: "When and where is the ceremony?",
+    question: "When and where is the ceremony?.",
     answer:
       "The ceremony will be held on January 10, 2026 at 2:00 PM at St. Joseph the Patriarch Parish, Mabolo, Cebu City.",
   },
