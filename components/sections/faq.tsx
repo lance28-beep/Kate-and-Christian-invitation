@@ -32,7 +32,7 @@ const faqItems: FAQItem[] = [
   {
     question: "When is the RSVP deadline?",
     answer:
-      "Kindly RSVP by December 20,2025. Your response will help us finalize our guest list. Thank you!. [RSVP_LINK]Click here to RSVP[/RSVP_LINK]",
+      "Kindly RSVP by December 20,2025.. Your response will help us finalize our guest list. Thank you!. [RSVP_LINK]Click here to RSVP[/RSVP_LINK]",
   },
   {
     question: "Is there parking available?",
